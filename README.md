@@ -1,2 +1,14 @@
 # projeto-3-trimestre
-desenvolvimento de um jogo usando html e css
+
+
+Objetivo 
+
+#tecnologias 
+visual-code: para construção em  HTML + CSS
+Figma- criação wiredrame 
+
+
+#como utilizar 
+
+
+autor: Nicoly Melissa Miranda Lima
